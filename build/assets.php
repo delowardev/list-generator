@@ -1,0 +1,1 @@
+<?php return array('js/block-editor.js' => array('dependencies' => array('wp-block-editor', 'wp-blocks', 'wp-components', 'wp-compose', 'wp-data', 'wp-element', 'wp-hooks', 'wp-polyfill', 'wp-primitives'), 'version' => 'f15481b2034447260653'));
